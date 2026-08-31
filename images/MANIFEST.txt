@@ -1,0 +1,16 @@
+Generated product-UI images from https://chatgpt.com/share/6a94fd0e-5848-83e8-a33b-d3ef7da05789
+Real PNG downloads of the generated assets (not page screenshots).
+
+CSR workspace
+  csr-01-enterprise-operations.png   1672x941  Enterprise Operations Overview
+  csr-02-triage-command-center.png   1672x941  Triage Command Center + command palette
+  csr-03-inbox.png                   1672x941  Inbox conversation, ticket #84712
+  csr-04-customer-360.png            1672x941  Customer 360, Northstar Bank
+
+Neve / nerve center (five standalone screens)
+  neve-00-five-screens.png                 1536x1024  Collage of all five screens
+  neve-01-enterprise-command-center.png    1672x941  Screen 1 — Enterprise Command Center
+  neve-02-agent-fleet.png                  1672x941  Screen 2 — Agent Fleet
+  neve-03-refund-agent.png                 1672x941  Screen 3 — Refund Agent detail
+  neve-04-session-explorer.png             1672x941  Screen 4 — Session Explorer
+  neve-05-session-forensic.png             1672x941  Screen 5 — Session #92A13 forensic
